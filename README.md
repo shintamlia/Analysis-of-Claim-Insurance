@@ -6,8 +6,6 @@ Saya merupakan data analyst di salah satu perusahaan asuransi yang berada di US.
 
 # Problem Statement
 
-Problem Statement:
-
 Untuk mengidentifkasi faktor-faktor yang mempengaruhi jumlah klaim asuransi yang dilakukan oleh pelanggan selama periode 2017-2018 guna menentukan strategi perusahaan yang optimal sehingga akan terjadi peningkatan sebesar 15% dalam penjualannya dan tentunya meningkatkan profit perusahaan akan dicapai dengan melakukan teknik analisis data yang tepat yaitu statistik deksriptif dan inferensial untuk mengidentifikasi variabel-variabel utama yang mempengaruhi klaim asuransi. 
 
 # Penjabaran Masalah
